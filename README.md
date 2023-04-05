@@ -18,7 +18,9 @@ Bu projenin amacı, [projenin amacını buraya yazın].
 
 1. Öncelikle, [projenin bağımlılıklarını belirtin] yüklemeniz gerekir.
 
-'git bash'
+```bash
+git clone [projenin git repo adresi]
+```
 
 2. Daha sonra, [projenin kurulum adımlarını belirtin].
 
