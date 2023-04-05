@@ -50,21 +50,17 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip e
 1. Projeyi kopyalayın veya klonlayın.
 
 ```bash
-git clone [projenin git repo adresi]
+git clone https://github.com/hititddi/hititddiproject.git
 ```
 
 2. Değişikliklerinizi yapın ve değişikliklerinizi göndermek için bir pull isteği gönderin.
 
 ```bash
-git commit -m "Açıklayıcı bir commit mesajı"
-git push origin [değişikliklerinizi yapmak istediğiniz branch]
+git commit -m "commit mesajı"
+git push origin master
 ```
 
 3. Bir pull isteği göndermek için projenin Github sayfasına gidin ve "New Pull Request" düğmesine tıklayın.
-
-# Türkçe Doğal Dil İşlemeye Katkısı
-
-Bu proje, Türkçe doğal dil işlemeye katkıda bulunmayı amaçlamaktadır. Bu amaçla, [projenin nasıl Türkçe doğal dil işlemeye katkıda bulunduğu hakkında açıklama yapın].
 
 # Özgünlük
 
