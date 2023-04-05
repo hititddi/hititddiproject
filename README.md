@@ -93,3 +93,5 @@ Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen proj
 
 * https://github.com/google-research/bert
 * https://github.com/pytorch/pytorch
+
+#Acikhack2023
