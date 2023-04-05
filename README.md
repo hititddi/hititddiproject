@@ -10,7 +10,9 @@ Bu README dosyası, proje hakkında ayrıntılı bilgi sağlar ve projenin kurul
 
 # Projenin Amacı:
 
-Bu projenin amacı, [projenin amacını buraya yazın].
+Bu proje Türkçe doğal dil işlemesi için kullanıcı dostu ve yüksek performanslı kütüphanelerin ve veri kümelerinin hazırlanmasına katkı sağlamayı amaçlamaktadır. Bu amaç doğrultusunda "Aşağılayıcı Söylemlerin Doğal Dil İşleme İle Tespiti" problemiyle bir yarışma düzenlenmektedir. Yarışmanın amacı, platform ekosisteminin gelişimine katkıda bulunacak bir veri seti ve problem belirleyerek, Türkçe doğal dil işleme alanındaki gelişmeleri teşvik etmektir.
+
+HititDDİ ekibi olarak projenin amacı ise Türkçe aşağılayıcı söylemlerin doğal dil işleme ile yüksek doğruluklu tespitini sağlamaktadır.
 
 # Kurulum:
 
