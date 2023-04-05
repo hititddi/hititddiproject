@@ -78,6 +78,10 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip e
 
 Bu projede ilk başta veri seti ön işlemden geçmiştir. Genel ön işlemlerın dışında ayrıca etiket içerisindeki etiket uyuşmazlıkları giderilmiştir (Örneğin bir metnin offansive değeri 0 iken ırkçı söylem olarak etiketlenmesi gibi). Ardından iki farklı model geliştirildi. İlk olarak Türkçe metinler için genel bir aşağılayıcı söylem içeren yüksek başarımlı bir ikili sınıflandırma modeli geliştirildi. Burada veri seti farklı modellerden eğitilerek başarımı test edilmiştir. Bu modellerden Fine-Tuned BERT modeli testlerde en başarılı sonucu vermiştir. Geliştirilen modelden elde edilen test sonuçlarına göre F1 skoru yüzde 97.85 çıkmıştır. İkinci olarak aşağılayıcı söylemler için çok sınıflı bir sınıflandırma modeli geliştirilmiştir. Burada yine farklı modeller test edilmiş ve en başarılı sonucu yine Fine-Tuned BERT modeli vermiştir. Geliştirilen modelden elde edilen test sonuçlarına göre aşağılayıcı söylemi temsil eden dört etiketin Makro F1 skoru yüzde 95.07 çıkmıştır. Sonuç olarak geliştirilen çok etiketli sınıflandırma modeli ile Türkçe aşağılayıcı söylemler yüksek doğrulukta tespit edilebilmektedir.
 
+<p align="center"><img src="https://github.com/hititddi/hititddiproject/blob/main/f1_score_binary.png" width="600"></a></p>
+
+<p align="center"><img src="https://github.com/hititddi/hititddiproject/blob/main/f1_score_multi.png" width="600"></a></p>
+
 # Lisans:
 
 Bu proje GNU Affero General Public License v3 (AGPLv3) ile lisanslanmıştır. Lisans hakkında daha fazla bilgi için [LICENSE](https://github.com/hititddi/hititddiproject/blob/main/LICENSE) dosyasına bakınız.
