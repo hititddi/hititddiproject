@@ -43,7 +43,17 @@ HititDDİ ekibi olarak projenin amacı ise Türkçe aşağılayıcı söylemleri
 
 # Kullanım:
 
-[Projenin nasıl kullanılacağına dair talimatları verin. Kullanıcıların projeyi nasıl kullanacaklarına ve hangi seçenekleri, parametreleri veya komut dosyalarını kullanmaları gerektiğine dair ayrıntılı bilgi verin.]
+1. Verisetini eğitmek için aşağıdaki scripti giriniz.
+
+    ```bash
+    python train.py
+    ```
+
+2. Metin verilerini tespit etmek için aşağıdaki scripti giriniz.
+
+    ```bash
+    python predict.py testverisi.csv cikti.csv binary_model.pt multi_model.pt
+    ```
 
 # Katılım:
 
@@ -51,16 +61,16 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip e
 
 1. Projeyi kopyalayın veya klonlayın.
 
-```bash
-git clone https://github.com/hititddi/hititddiproject.git
-```
+    ```bash
+    git clone https://github.com/hititddi/hititddiproject.git
+    ```
 
 2. Değişikliklerinizi yapın ve değişikliklerinizi göndermek için bir pull isteği gönderin.
 
-```bash
-git commit -m "commit mesajı"
-git push origin master
-```
+    ```bash
+    git commit -m "commit mesajı"
+    git push origin master
+    ```
 
 3. Bir pull isteği göndermek için projenin Github sayfasına gidin ve "New Pull Request" düğmesine tıklayın.
 
