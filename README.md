@@ -85,7 +85,9 @@ Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen proj
 * Emre DENİZ - emredeniz18@hotmail.com
 * Harun Emre KIRAN - harunemrekiran@gmail.com
 
-# References
+# Referanslar
+
+* https://github.com/google-research/bert
 
 Referansları belirt
 
