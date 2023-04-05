@@ -45,8 +45,6 @@ Bu projenin amacı, [projenin amacını buraya yazın].
 
 # Katılım:
 
-[Proje için katkıda bulunmanın yollarını açıklayın. İşbirliği yapmak isteyenler için katkıda bulunmanın yollarını ve pull request gönderme veya sorun bildirme süreci hakkında bilgi verin.]
-
 Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
 
 1. Projeyi kopyalayın veya klonlayın.
