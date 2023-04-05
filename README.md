@@ -1,6 +1,6 @@
 # Giriş:
 
-<p align="center"><a href="https://www.teknofest.org" target="_blank"><img src="https://github.com/harunemrekiran61/beelmek-panel/blob/master/public/HititDD%C4%B0.svg" width="400"></a></p>
+<p align="center"><a href="https://www.teknofest.org" target="_blank"><img src="https://github.com/hititddi/hititddiproject/blob/main/logo.svg" width="400"></a></p>
 
 Bu proje, GNU Affero Genel Kamu Lisansı v3 (AGPLv3) altında lisanslanmıştır.
 
