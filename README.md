@@ -26,12 +26,18 @@ Bu projenin amacı, [projenin amacını buraya yazın].
 2. Ardından aşağıda belirtilen projelerin bağımlılıklarını yüklemeniz gerekir.
 
     ```bash
-    pip install 
+    pip3 install numpy
+    pip3 install transformers
+    pip3 install scikit-learn
+    pip3 install seaborn
+    pip3 install matplotlib
     ```
 
-3. Daha sonra, [projenin kurulum adımlarını belirtin].
+3. En sonunda ise torch bağımlılığın kurulması gerekir. Bağımlılığın diğer sürümleri için lütfen [tıklayınız](https://pytorch.org/).
 
-'git bash'
+    ```bash
+    pip3 install torch --index-url https://download.pytorch.org/whl/cu118
+    ```
 
 # Kullanım:
 
