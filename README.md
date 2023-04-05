@@ -85,6 +85,7 @@ Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen proj
 * Emre DENİZ - emredeniz18@hotmail.com
 * Harun Emre KIRAN - harunemrekiran@gmail.com
 
-# Referanslar
+# Kaynaklar
 
 * https://github.com/google-research/bert
+* https://github.com/pytorch/pytorch
