@@ -16,13 +16,20 @@ Bu projenin amacı, [projenin amacını buraya yazın].
 
 [Projenin nasıl kurulacağına dair adım adım talimatları verin. Gereksinimler ve bağımlılıklar hakkında bilgi verin.]
 
-1. Öncelikle, [projenin bağımlılıklarını belirtin] yüklemeniz gerekir.
+1. Öncelikle, diğer projelerle karışmaması adına yeni bir conda çevresi oluşturulması tavsiye edilir.
 
-```bash
-git clone [projenin git repo adresi]
-```
+    ```bash
+    conda create -n nyp python=3.9
+    conda activate nyp
+    ```
 
-2. Daha sonra, [projenin kurulum adımlarını belirtin].
+2. Ardından aşağıda belirtilen projelerin bağımlılıklarını yüklemeniz gerekir.
+
+    ```bash
+    pip install 
+    ```
+
+3. Daha sonra, [projenin kurulum adımlarını belirtin].
 
 'git bash'
 
@@ -63,7 +70,7 @@ Bu proje, başarılı sonuçlar elde etmeyi hedeflemektedir. [Projenin hangi ba�
 
 # Lisans:
 
-Bu proje GNU Affero General Public License v3 (AGPLv3) ile lisanslanmıştır. Lisans hakkında daha fazla bilgi için (LICENSE){https://github.com/hititddi/hititddiproject/blob/main/LICENSE} dosyasına bakınız.
+Bu proje GNU Affero General Public License v3 (AGPLv3) ile lisanslanmıştır. Lisans hakkında daha fazla bilgi için [LICENSE](https://github.com/hititddi/hititddiproject/blob/main/LICENSE) dosyasına bakınız.
 
 # İletişim
 
