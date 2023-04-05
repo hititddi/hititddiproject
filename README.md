@@ -88,9 +88,3 @@ Eğer herhangi bir sorunuz, öneriniz veya geri bildiriminiz varsa, lütfen proj
 # Referanslar
 
 * https://github.com/google-research/bert
-
-Referansları belirt
-
---------------------------------------------------------
----------------------------------------------------------------
-İngilizce halini yaz.
