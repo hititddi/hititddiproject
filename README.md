@@ -64,9 +64,7 @@ git push origin master
 
 # Özgünlük
 
-Bu proje, yaratıcılık ve innovasyonu desteklemek için tasarlanmıştır. [Projenin nasıl yaratıcı ve yenilikçi olduğuna dair açıklama yapın.]
-
-Bu proje, başarılı sonuçlar elde etmeyi hedeflemektedir. [Projenin hangi başarılara sahip olduğu hakkında açıklama yapın]. Bu başarılar, projenin açık kaynak topluluğu tarafından benimsenmesi ve kullanılması, özellikle Türkçe doğal dil işlemeye katkı sağlaması ve yüksek performanslı sunumlar yapması gibi faktörlere dayanmaktadır.
+Bu projede ilk başta veri seti ön işlemden geçmiştir. Genel ön işlemlerın dışında ayrıca etiket içerisindeki etiket uyuşmazlıkları giderilmiştir (Örneğin bir metnin offansive değeri 0 iken ırkçı söylem olarak etiketlenmesi gibi). Ardından iki farklı model geliştirildi. İlk olarak Türkçe metinler için genel bir aşağılayıcı söylem içeren yüksek başarımlı bir ikili sınıflandırma modeli geliştirildi. Burada veri seti farklı modellerden eğitilerek başarımı test edilmiştir. Bu modellerden Fine-Tuned BERT modeli testlerde en başarılı sonucu vermiştir. Geliştirilen modelden elde edilen test sonuçlarına göre F1 skoru yüzde 97.85 çıkmıştır. İkinci olarak aşağılayıcı söylemler için çok sınıflı bir sınıflandırma modeli geliştirilmiştir. Burada yine farklı modeller test edilmiş ve en başarılı sonucu yine Fine-Tuned BERT modeli vermiştir. Geliştirilen modelden elde edilen test sonuçlarına göre aşağılayıcı söylemi temsil eden dört etiketin Makro F1 skoru yüzde 95.07 çıkmıştır. Sonuç olarak geliştirilen çok etiketli sınıflandırma modeli ile Türkçe aşağılayıcı söylemler yüksek doğrulukta tespit edilebilmektedir.
 
 # Lisans:
 
