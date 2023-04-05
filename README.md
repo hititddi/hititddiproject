@@ -1,6 +1,6 @@
 # Giriş:
 
-<p align="center"><a href="https://www.teknofest.org" target="_blank"><img src="https://cdn.teknofest.org/media/upload/userFormUpload/AKSXAkzWtSKS1EnC4zlsSRPqEqjXe4Gl_eyYCj.png" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.teknofest.org/media/upload/userFormUpload/AKSXAkzWtSKS1EnC4zlsSRPqEqjXe4Gl_eyYCj.png" width="150"></a></p>
+<p align="center"><a href="https://www.teknofest.org" target="_blank"><img src="https://github.com/harunemrekiran61/beelmek-panel/blob/master/public/HititDD%C4%B0.svg" width="400"></a></p>
 
 Bu proje, GNU Affero Genel Kamu Lisansı v3 (AGPLv3) altında lisanslanmıştır.
 
