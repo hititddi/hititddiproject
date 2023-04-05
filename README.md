@@ -63,7 +63,7 @@ Bu proje, başarılı sonuçlar elde etmeyi hedeflemektedir. [Projenin hangi ba�
 
 # Lisans:
 
-Bu proje GNU Affero General Public License v3 (AGPLv3) ile lisanslanmıştır. Lisans hakkında daha fazla bilgi için LICENSE dosyasına bakınız.
+Bu proje GNU Affero General Public License v3 (AGPLv3) ile lisanslanmıştır. Lisans hakkında daha fazla bilgi için (LICENSE){https://github.com/hititddi/hititddiproject/blob/main/LICENSE} dosyasına bakınız.
 
 # İletişim
 
